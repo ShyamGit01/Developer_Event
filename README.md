@@ -1,8 +1,8 @@
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?style=popout-square) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-# Free T-shirts, Free Stickers and more for Developers!
+# Free Swags for Developers!
 
-This awesome list contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
+This list contains currently available free tshirts, free stickers and other free swags for developers :smiley: <br>
 
 **:envelope: To receive updates in email, [subscribe!](https://mailchi.mp/9dafbae00206/prakash) :envelope:**
 
