@@ -282,9 +282,9 @@ How it looks | How to get?
 
 Know about some cool new tshirts or stickers being given away? Raise a pull request with the link and I'll make sure it gets added.
 
-[Buy me a coffee :smiley:](https://imjo.in/SuBz5d)
+[Buy me a coffee :smiley:]<br>Paytm:7328083161
 
-Checkout my other projects [here](https://github.com/Joonsang1994?tab=repositories).
+Checkout my other projects [here](https://github.com/ShyamGit01).
 
 Thanks for visiting!
 
